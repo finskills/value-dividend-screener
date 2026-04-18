@@ -59,7 +59,7 @@ Claude: [Fetches constituent list, screens fundamentals + dividends, scores 500 
 
 ## Requirements
 
-- **Finskills API Key**: [Get one](https://finskills.net/register) — **Pro plan required** for financials and dividends
+- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available) — **Pro plan required** for financials and dividends
 - **Claude** with skill support
 
 ## License
