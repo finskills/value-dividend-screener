@@ -1,3 +1,16 @@
+---
+name: Value & Dividend Screener
+version: 1.0.0
+description: "Screen US equities for value and dividend quality using multi-factor scoring across P/E, P/B, dividend yield, and payout sustainability via the Finskills API."
+author: finskills
+homepage: https://github.com/finskills/value-dividend-screener
+credentials:
+  - name: FINSKILLS_API_KEY
+    description: "Finskills API key — register for free at https://finskills.net (Pro plan required for financials, dividends, and analyst recommendations)"
+    required: true
+    link: https://finskills.net
+---
+
 # Value & Dividend Screener
 
 Screen stocks for undervaluation and sustainable dividend income using
@@ -10,7 +23,7 @@ rationale for each position.
 
 ## Setup
 
-**API Key required** — Pro plan required for financials/dividends/recommendations endpoints.  
+**API Key required** — [Register at https://finskills.net](https://finskills.net) to get your free key.  
 Header: `X-API-Key: <your_api_key>`
 > **Get your API key**: Register at **https://finskills.net** — free tier available, Pro plan unlocks real-time quotes, history, and financials.
 

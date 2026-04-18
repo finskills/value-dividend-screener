@@ -20,7 +20,7 @@
 ## Install
 
 ```bash
-npx skills add https://github.com/your-org/finskills-skills --skill value-dividend-screener
+npx skills add https://github.com/finskills/value-dividend-screener --skill value-dividend-screener
 ```
 
 ## Quick Start
@@ -59,7 +59,7 @@ Claude: [Fetches constituent list, screens fundamentals + dividends, scores 500 
 
 ## Requirements
 
-- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available) — **Pro plan required** for financials and dividends
+- **Finskills API Key**: [Register at finskills.net](https://finskills.net) (free tier available) — **Pro plan required** for financials and dividends
 - **Claude** with skill support
 
 ## License
