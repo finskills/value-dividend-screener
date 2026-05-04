@@ -1,5 +1,5 @@
 ---
-name: value & dividend screener
+name: value-dividend-screener
 version: 1.0.2
 description: "Screen US equities for value and dividend quality using multi-factor scoring across P/E, P/B, dividend yield, and payout sustainability via the Finskills API."
 author: finskills
